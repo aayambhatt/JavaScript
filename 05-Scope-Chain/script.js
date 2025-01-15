@@ -2,7 +2,7 @@ function a(){
     console.log(b);
     
 }
-let b = 10;
+let b = 50;
 a();
 
 // scope means where you can access a specific variable or a function
